@@ -5,6 +5,7 @@
 ## PHP
 
 ## JQuery
+[JQuery插件编写](https://github.com/yank0362/blog/blob/master/jquery.md)
 
 ## Css
 
