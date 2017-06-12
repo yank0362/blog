@@ -5,6 +5,7 @@
 ## PHP
 
 ## JQuery
+- [JQuery选择器](https://github.com/yank0362/blog/blob/master/jquery_selector.md)
 - [JQuery插件编写](https://github.com/yank0362/blog/blob/master/jquery.md)
 - [JQuery Ajax全局事件](https://github.com/yank0362/blog/blob/master/jquery_ajax_global.md)
 ## Css
